@@ -5,9 +5,6 @@ layout: default
 
 # Isabelle's COMP110 Data Analysis: Student Learning Insights
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="{{ site.baseurl }}/static/imgs/logo.png" alt="COMP110 logo" width="500"/>
-
 ## Data Analysis Overview
 
 This project analyzes COMP110 student survey data to understand patterns in learning, confidence, and engagement. The results are visualized using Python and Seaborn.
@@ -19,14 +16,12 @@ This project analyzes COMP110 student survey data to understand patterns in lear
 - Most students found assignments somewhat valuable for learning.
 
 ## Visualization
+The data was analyzed using Seaborn plots to show relationships between understanding, confidence, and perceived value of coursework. 
 
-### Chart 1
 <img src="{{ site.baseurl }}/static/imgs/output.png" width="600"/>
 
-### Chart 2
 <img src="{{ site.baseurl }}/static/imgs/output2.png" width="600"/>
 
-### Chart 3
 <img src="{{ site.baseurl }}/static/imgs/output3.png" width="600"/>
 
 ## Conclusion

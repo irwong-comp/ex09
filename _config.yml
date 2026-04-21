@@ -18,7 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Isabelle's COMP110 Data Analysis
 email: irwong@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A data analysis project exploring student learning experiences in COMP110 using survey data and visualization tools.
