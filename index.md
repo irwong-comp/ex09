@@ -7,7 +7,7 @@ layout: default
 
 ## Data Analysis Overview
 
-This project analyzes COMP110 student survey data to understand patterns in learning, confidence, and engagement. The results are visualized using Python and Seaborn.
+This project analyzes COMP110 student survey data to understand patterns in learning, confidence, and engagement, suggesting ways the course can improve, including the introduction of more low-stakes mini quizzes. The results are visualized using Python and Seaborn.
 
 ## Key Findings
 
